@@ -1,7 +1,6 @@
-testing my repository
-editing the repository
-<html>
-<title>
-hello
-</title>
-</html>
+<<<<<<< HEAD
+# Task-instacar-
+=======
+React Welcome Project with Login
+>>>>>>> initial commit
+# Test-instacar-
